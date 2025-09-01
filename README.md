@@ -1,2 +1,4 @@
 # letter-project
-"i hope you read this, even if it's too late."
+"i hope you read this"
+hi it's been a while
+i really miss you 
